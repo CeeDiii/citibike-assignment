@@ -3,4 +3,4 @@ __pycache__
 __MACOSX
 *.csv
 *.zip
-*.txt
+*_ignore.txt
